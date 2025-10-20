@@ -177,7 +177,7 @@ function FloatingImages({ urls, baseCount = 300 }) {
             depthWrite={false}
           />
         </mesh>
-      ))}
+      ))}ư
     </group>
   );
 }
