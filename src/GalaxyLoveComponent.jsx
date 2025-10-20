@@ -191,7 +191,6 @@ export default function GalaxyLoveComponent() {
     "/images/photo2.jpg",
     "/images/heart1.jpg",
     "/images/heart2.jpg",
-    // "/images/photo3.jpg",
   ];
   const messages = [
     "Mãi yêu em",

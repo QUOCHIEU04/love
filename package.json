@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://quochieu04.github.io/love",
+
   "dependencies": {
     
     "@react-three/drei": "^10.7.6",
