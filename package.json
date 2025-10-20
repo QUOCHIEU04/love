@@ -2,7 +2,9 @@
   "name": "galaxy-love",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://quochieu04.github.io/love",
   "dependencies": {
+    
     "@react-three/drei": "^10.7.6",
     "@react-three/fiber": "^9.4.0",
     "@testing-library/dom": "^10.4.1",
@@ -38,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
